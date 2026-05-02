@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Japan Integration Lab"
+  name   : "ジャパン・インテグレーション・ラボ"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "日本の移民政策、社会統合、および社会的安定に関する研究活動。"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
